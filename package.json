@@ -1,0 +1,13 @@
+{
+    "name": "markdown-editor",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "echo 'Hello! package.json'"
+    },
+    "devDependencies": {
+        "@testing-library/jest-dom": "^6.6.3",
+        "@testing-library/react": "^16.1.0",
+        "@testing-library/user-event": "^14.5.2",
+        "web-vitals": "^4.2.4"
+    }
+}
